@@ -1,5 +1,6 @@
 {   
     "name": "Loot's Tools EXtensions Module",
-    "version": "0.0.1",
-    "author" : "Darye"
+    "version": "0.0.2",
+    "author" : "Darye",
+    "needsRestart": false
 }

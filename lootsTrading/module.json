@@ -1,5 +1,6 @@
 {   
     "name": "LootsTrading Module",
     "version": "0.0.2",
-    "author" : "Darye"
+    "author" : "Darye",
+    "needsRestart": false
 }

@@ -1,5 +1,6 @@
 {   
     "name": "WebSockets Manager",
     "version": "0.0.1",
-    "author" : "Darye"
+    "author" : "Darye",
+    "needsRestart": false
 }
