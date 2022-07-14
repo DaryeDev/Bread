@@ -1,6 +1,1 @@
-{   
-    "name": "Loot's Tools EXtensions Module",
-    "version": "0.0.2",
-    "author" : "Darye",
-    "needsRestart": false
-}
+{"id":"ltex","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/ltex/ltex.ltmod","name":"Loot's Tools EXtensions Module","version":"0.0.3","author":"Darye","changelog":"Silence mode was not being used on one case.","needsRestart":false}
