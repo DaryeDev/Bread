@@ -1,6 +1,1 @@
-{   
-    "name": "Startup Module",
-    "version": "0.0.1",
-    "author" : "Darye",
-    "needsRestart": true
-}
+{"id":"startup","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/startup/startup.ltmod","name":"Startup Module","version":"0.0.2","author":"Darye","changelog":"Added demo stuff.","needsRestart":true}
