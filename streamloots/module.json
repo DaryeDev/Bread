@@ -1,6 +1,1 @@
-{   
-    "name": "Streamloots Module",
-    "version": "0.0.1",
-    "author" : "Darye",
-    "needsRestart": false
-}
+{"id":"streamloots","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/streamloots/streamloots.ltmod","name":"Streamloots Module","version":"0.0.2","author":"Darye","changelog":"Added getTopBuyers and getTopRedeemers, with since and until parameters that default to a month before and present time, respectively.","needsRestart":false}
