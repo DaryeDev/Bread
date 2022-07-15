@@ -1,1 +1,1 @@
-{"id":"ducky","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/ducky/ducky.ltmod","name":"Ducky Module","version":"0.0.3","author":"Darye","changelog":"Now supports updating EXtensions.","needsRestart":false}
+{"id":"ducky","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/ducky/ducky.ltmod","name":"Ducky Module","version":"0.0.4","author":"Darye","changelog":"Modules marked as not needing to restart Loot's Tools will restart upon downloading, and those that are marked like so, won't.","needsRestart":true}
