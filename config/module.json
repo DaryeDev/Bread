@@ -1,1 +1,1 @@
-{"id":"config","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/config/config.ltmod","name":"Config","version":"0.0.1","author":"Darye","changelog":"Initial release.","needsRestart":false}
+{"id":"config","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/config/config.ltmod","name":"Config","version":"0.0.2","author":"Darye","changelog":"Added Listeners to call callback functions when a config changes.","needsRestart":false}
