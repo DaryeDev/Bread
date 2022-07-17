@@ -1,6 +1,1 @@
-{   
-    "name": "WebSockets Manager",
-    "version": "0.0.1",
-    "author" : "Darye",
-    "needsRestart": false
-}
+{"id":"websockets","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/websockets/websockets.ltmod","name":"WebSockets Manager","version":"0.0.2","author":"Darye","changelog":"Added config with UI.","needsRestart":true}
