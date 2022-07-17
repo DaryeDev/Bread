@@ -1,6 +1,1 @@
-{   
-    "name": "Loot's Tools Overlay Module",
-    "version": "0.0.2",
-    "author" : "Darye",
-    "needsRestart": false
-}
+{"id":"overlay","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/overlay/overlay.ltmod","name":"Loot's Tools Overlay Module","version":"0.0.3","author":"Darye","changelog":"Added toggling on and off the overlay. Defaults to off, and can be toggled on from the UI.","needsRestart":true}
