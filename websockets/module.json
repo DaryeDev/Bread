@@ -1,1 +1,1 @@
-{"id":"websockets","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/websockets/websockets.ltmod","name":"WebSockets Manager","version":"0.0.4","author":"Darye","changelog":"Added \"Open Loot's Tools Dir\" button on UI.","needsRestart":true}
+{"id":"websockets","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/websockets/websockets.ltmod","name":"WebSockets Manager","version":"0.0.5","author":"Darye","changelog":"openLootsToolsDir","needsRestart":true}
