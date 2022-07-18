@@ -1,1 +1,1 @@
-{"id":"overlay","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/overlay/overlay.ltmod","name":"Loot's Tools Overlay Module","version":"0.0.11","author":"Darye","changelog":"optimize","needsRestart":true}
+{"id":"overlay","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/overlay/overlay.ltmod","name":"Loot's Tools Overlay Module","version":"0.0.12","author":"Darye","changelog":"Even more optimized and now overlays (the list) is no longer a list, but a dict.","needsRestart":true}
