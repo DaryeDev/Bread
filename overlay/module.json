@@ -1,1 +1,1 @@
-{"id":"overlay","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/overlay/overlay.ltmod","name":"Loot's Tools Overlay Module","version":"0.0.8","author":"Darye","changelog":"Added WatchDog.","needsRestart":true}
+{"id":"overlay","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/overlay/overlay.ltmod","name":"Loot's Tools Overlay Module","version":"0.0.9","author":"Darye","changelog":"Disabled Watchdog.","needsRestart":true}
