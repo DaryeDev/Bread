@@ -1,1 +1,1 @@
-{"id":"overlay","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/overlay/overlay.ltmod","name":"Loot's Tools Overlay Module","version":"0.0.10","author":"Darye","changelog":"Watchdog enabled (again) and created a \"Open Overlays Folder\" button on the UI.","needsRestart":true}
+{"id":"overlay","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/overlay/overlay.ltmod","name":"Loot's Tools Overlay Module","version":"0.0.11","author":"Darye","changelog":"optimize","needsRestart":true}
