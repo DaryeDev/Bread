@@ -1,1 +1,1 @@
-{"id":"config","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/config/config.ltmod","name":"Config","version":"0.0.3","author":"Darye","changelog":"Now callbacks are run on a new Thread.","needsRestart":false}
+{"id":"config","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/config/config.ltmod","name":"Config","version":"0.0.4","author":"Darye","changelog":"Removed debug thing lol","needsRestart":false}
