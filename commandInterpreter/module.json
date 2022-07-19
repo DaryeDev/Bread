@@ -1,1 +1,1 @@
-{"id":"commandInterpreter","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/commandInterpreter/commandInterpreter.ltmod","name":"Command Interpreter","version":"0.0.4","author":"Darye","changelog":"Modified overlay Command.","needsRestart":false}
+{"id":"commandInterpreter","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/commandInterpreter/commandInterpreter.ltmod","name":"Command Interpreter","version":"0.0.5","author":"Darye","changelog":"faulty chdir","needsRestart":false}
