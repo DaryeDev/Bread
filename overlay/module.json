@@ -1,1 +1,1 @@
-{"id":"overlay","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/overlay/overlay.ltmod","name":"Loot's Tools Overlay Module","version":"0.0.12","author":"Darye","changelog":"Even more optimized and now overlays (the list) is no longer a list, but a dict.","needsRestart":true}
+{"id":"overlay","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/overlay/overlay.ltmod","name":"Loot's Tools Overlay Module","version":"0.0.13","author":"Darye","changelog":"Forced Overlay to be on the Main Screen","needsRestart":true}
