@@ -1,1 +1,1 @@
-{"id":"lootsTrading","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/lootsTrading/lootsTrading.ltmod","name":"LootsTrading Module","version":"0.0.5","author":"Darye","changelog":"Fixed some missing values. (Maybe something changed on Streamloots' End?)","needsRestart":false}
+{"id":"lootsTrading","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/lootsTrading/lootsTrading.ltmod","name":"LootsTrading Module","version":"0.0.6","author":"Darye","changelog":"Fixed locales.","needsRestart":false}
