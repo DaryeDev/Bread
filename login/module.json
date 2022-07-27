@@ -1,1 +1,1 @@
-{"id":"login","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/login/login.ltmod","name":"Streamloots Login Module","version":"0.0.4","author":"Darye","changelog":"brumomento: la gente no podía iniciar sesión (Cómo lo han hecho los últimos en probar Loot's Tools?)","needsRestart":false}
+{"id":"login","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/login/login.ltmod","name":"Streamloots Login Module","version":"0.0.5","author":"Darye","changelog":"Fixed locales and first-time login.","needsRestart":false}
