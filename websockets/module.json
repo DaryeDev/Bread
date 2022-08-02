@@ -1,1 +1,1 @@
-{"id":"websockets","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/websockets/websockets.ltmod","name":"WebSockets Manager","version":"0.0.6","author":"Darye","changelog":"Changed how the LOOTSTOOLS_DIR var is gotten","needsRestart":true}
+{"id":"websockets","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/websockets/websockets.ltmod","name":"WebSockets Manager","version":"0.0.7","author":"Darye","changelog":"\"Open Loot's Tools Folder\" should work now.","needsRestart":true}
