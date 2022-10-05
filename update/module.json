@@ -1,1 +1,1 @@
-{"id":"update","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/update/update.ltmod","name":"Update","version":"0.0.4","author":"Darye","changelog":"Ups! The update module was broken xd","needsRestart":false}
+{"id": "update", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/update/update.ltmod", "name": "Update", "version": "0.0.4", "author": "Darye", "changelog": "v3.1", "needsRestart": false}
