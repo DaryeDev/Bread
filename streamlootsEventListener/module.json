@@ -1,1 +1,1 @@
-{"id":"streamlootsEventListener","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/streamlootsEventListener/streamlootsEventListener.ltmod","name":"Streamloots Event Listener","version":"0.0.3","author":"Darye","changelog":"Added systemAlertsEnabled config","needsRestart":false}
+{"id": "streamlootsEventListener", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/streamlootsEventListener/streamlootsEventListener.ltmod", "name": "Streamloots Event Listener", "version": "0.0.4", "author": "Darye", "changelog": "v3.1", "needsRestart": false}
