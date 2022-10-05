@@ -1,1 +1,1 @@
-{"id":"websockets","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/websockets/websockets.ltmod","name":"WebSockets Manager","version":"0.0.8","author":"Darye","changelog":"Added redeem fields as Available Event Tags","needsRestart":true}
+{"id": "websockets", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/websockets/websockets.ltmod", "name": "WebSockets Manager", "version": "0.0.12", "author": "Darye", "changelog": "v3.1", "needsRestart": true}
