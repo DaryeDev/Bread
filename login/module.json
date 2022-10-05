@@ -1,1 +1,1 @@
-{"id":"login","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/login/login.ltmod","name":"Streamloots Login Module","version":"0.0.5","author":"Darye","changelog":"Fixed locales and first-time login.","needsRestart":false}
+{"id": "login", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/login/login.ltmod", "name": "Streamloots Login Module", "version": "0.0.5", "author": "Darye", "changelog": "v3.1", "needsRestart": false}
