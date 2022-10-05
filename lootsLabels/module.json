@@ -1,1 +1,1 @@
-{"id":"lootsLabels","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/lootsLabels/lootsLabels.ltmod","name":"LootsLabels Module","version":"0.0.2","author":"Darye","changelog":"Added lastMonthTopBuyer and lastMonthTopRedeemer, with their respective additional info.","needsRestart":false}
+{"id": "lootsLabels", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/lootsLabels/lootsLabels.ltmod", "name": "LootsLabels Module", "version": "0.0.3", "author": "Darye", "changelog": "v3.1", "needsRestart": false}
