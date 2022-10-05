@@ -1,1 +1,1 @@
-{"id":"utils","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/utils/utils.ltmod","name":"Utils","version":"0.0.2","author":"Darye","changelog":"Fixed a directory issue when loading EXtension's Custom Commands.","needsRestart":false}
+{"id": "utils", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/utils/utils.ltmod", "name": "Utils", "version": "0.0.4", "author": "Darye", "changelog": "v3.1", "needsRestart": false}
