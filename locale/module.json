@@ -1,1 +1,1 @@
-{"id":"locale","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/locale/locale.ltmod","name":"Locale Module","version":"0.0.2","author":"Darye","changelog":"Fixed different languages and \"\\n\"'s now need to be addressed on the key as \"\\\\n\"","needsRestart":true}
+{"id": "locale", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/locale/locale.ltmod", "name": "Locale Module", "version": "0.0.2", "author": "Darye", "changelog": "v3.1", "needsRestart": true}
