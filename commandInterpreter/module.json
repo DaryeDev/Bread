@@ -1,1 +1,1 @@
-{"id":"commandInterpreter","url":"https://raw.githubusercontent.com/DaryeDev/Bread/master/commandInterpreter/commandInterpreter.ltmod","name":"Command Interpreter","version":"0.0.7","author":"Darye","changelog":"Added Hold Keys Command","needsRestart":false}
+{"id": "commandInterpreter", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/commandInterpreter/commandInterpreter.ltmod", "name": "Command Interpreter", "version": "0.0.14", "author": "Darye", "changelog": "v3.1", "needsRestart": false}
