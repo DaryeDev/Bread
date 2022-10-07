@@ -1,1 +1,1 @@
-{"id": "commandInterpreter", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/commandInterpreter/commandInterpreter.ltmod", "name": "Command Interpreter", "version": "0.0.15", "author": "Darye", "changelog": "Fixed text-based Tags", "needsRestart": false}
+{"id": "commandInterpreter", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/commandInterpreter/commandInterpreter.ltmod", "name": "Command Interpreter", "version": "0.0.16", "author": "Darye", "changelog": "Fixed onCardEvent.", "needsRestart": false}
