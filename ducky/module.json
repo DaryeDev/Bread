@@ -1,1 +1,1 @@
-{"id": "ducky", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/ducky/ducky.ltmod", "name": "Ducky Module", "version": "0.0.10", "author": "Darye", "changelog": "v3.1", "needsRestart": true}
+{"id": "ducky", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/ducky/ducky.ltmod", "name": "Ducky Module", "version": "0.0.11", "author": "Darye", "changelog": "Auto-reconnect Ducky.", "needsRestart": true}
