@@ -1,6 +1,1 @@
-{   
-    "name": "Santa Claus Module",
-    "version": "0.0.1",
-    "author" : "Darye",
-    "needsRestart": false
-}
+{"id": "santaClaus", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/santaClaus/santaClaus.ltmod", "name": "Santa Claus Module", "version": "0.0.2", "author": "Darye", "changelog": "Now you can use Collection IDs or Names.", "needsRestart": false}
