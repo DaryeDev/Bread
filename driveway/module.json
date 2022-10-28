@@ -1,1 +1,1 @@
-{"id": "driveway", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/driveway/driveway.ltmod", "name": "DriveWay Manager", "version": "0.0.3", "author": "Darye", "changelog": "Fixed Driveway, will announce with some usage...", "needsRestart": false}
+{"id": "driveway", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/driveway/driveway.ltmod", "name": "DriveWay Manager", "version": "0.0.4", "author": "Darye", "changelog": "Added dependencies.", "needsRestart": false}
