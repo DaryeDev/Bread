@@ -1,1 +1,1 @@
-{"id": "ltex", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/ltex/ltex.ltmod", "name": "Loot's Tools EXtensions Module", "version": "0.0.7", "author": "Darye", "changelog": "Fixed installing dependencies that are being used.", "needsRestart": false}
+{"id": "ltex", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/ltex/ltex.ltmod", "name": "Loot's Tools EXtensions Module", "version": "0.0.8", "author": "Darye", "changelog": "Changed DysonTools URL", "needsRestart": false}
