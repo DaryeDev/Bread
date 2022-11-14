@@ -1,1 +1,1 @@
-{"id": "overlay", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/overlay/overlay.ltmod", "name": "Loot's Tools Overlay Module", "version": "0.0.19", "author": "Darye", "changelog": "Fixed freezeScreen", "needsRestart": false}
+{"id": "overlay", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/overlay/overlay.ltmod", "name": "Loot's Tools Overlay Module", "version": "0.0.20", "author": "Darye", "changelog": "Little hack to position the Overlay better", "needsRestart": false}
