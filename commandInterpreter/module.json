@@ -1,1 +1,1 @@
-{"id": "commandInterpreter", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/commandInterpreter/commandInterpreter.ltmod", "name": "Command Interpreter", "version": "0.0.22", "author": "Darye", "changelog": "Changed DysonTools URL", "needsRestart": false}
+{"id": "commandInterpreter", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/commandInterpreter/commandInterpreter.ltmod", "name": "Command Interpreter", "version": "0.0.23", "author": "Darye", "changelog": "Added replaceText Block.", "needsRestart": false}
