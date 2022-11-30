@@ -1,1 +1,1 @@
-{"id": "streamloots", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/streamloots/streamloots.ltmod", "name": "Streamloots Module", "version": "0.0.4", "author": "Darye", "changelog": "Fixed a couple of returns", "needsRestart": false}
+{"id": "streamloots", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/streamloots/streamloots.ltmod", "name": "Streamloots Module", "version": "0.0.5", "author": "Darye", "changelog": "testRedemption returns.", "needsRestart": false}
