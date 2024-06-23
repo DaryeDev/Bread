@@ -1,1 +1,1 @@
-{"id": "lootsLabels", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/lootsLabels/lootsLabels.ltmod", "name": "LootsLabels Module", "version": "0.0.4", "author": "Darye", "changelog": "Added lastBuyerImageURL and lastBuyerPacksNumber.", "needsRestart": false}
+{"id": "lootsLabels", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/lootsLabels/lootsLabels.ltmod", "name": "LootsLabels Module", "version": "0.0.5", "author": "Darye", "changelog": "Fixed totalPurchasedPacks", "needsRestart": false}
