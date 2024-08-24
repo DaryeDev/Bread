@@ -1,1 +1,1 @@
-{"id": "websockets", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/websockets/websockets.ltmod", "name": "WebSockets Manager", "version": "0.0.24", "author": "Darye", "changelog": "debugging cards not loading", "needsRestart": true}
+{"id": "websockets", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/websockets/websockets.ltmod", "name": "WebSockets Manager", "version": "0.0.25", "author": "Darye", "changelog": "FIX: cards not loading if a Card had no name", "needsRestart": true}
