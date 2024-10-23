@@ -1,1 +1,1 @@
-{"id": "streamloots", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/streamloots/streamloots.ltmod", "name": "Streamloots Module", "version": "0.0.7", "author": "Darye", "changelog": "Added Streamloots Marathons support.", "needsRestart": false}
+{"id": "streamloots", "url": "https://raw.githubusercontent.com/DaryeDev/Bread/master/streamloots/streamloots.ltmod", "name": "Streamloots Module", "version": "0.0.8", "author": "Darye", "changelog": "Added getPurchasedLoots and getTopCards", "needsRestart": false}
